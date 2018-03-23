@@ -1,0 +1,100 @@
+select max and max together
+select distinct values from multiple columns
+search for a number in a column
+search for a number in mysql
+joining multiple tables
+combine two different select statements into one
+sql query to find max value
+mysql order by date
+find out the date difference between two dates
+sql group by month
+sql query to find rows with duplicate values in one column
+select the first record from a left join
+check if a table is empty
+sql join on multiple tables
+find max value from multiple rows
+select dates from current month sql
+sql query to find rows with duplicate values
+select rows from one table that don't exist in another table
+join two tables
+mysql query to calculate average of time differences
+sql query for multiple tables
+sql order by date
+sql query to find rows that are not present in another table
+mysql reverse order
+sql server TAG_INT - select top n from two tables
+count the number of rows in mysql
+get max value from multiple rows
+combine two different select statements into one
+group by and order by
+getting the number of rows in a table
+mysql select from TAG_INT tables
+php / mysql pagination with order by
+mysql count problem
+join two select queries on the same table
+sql server TAG_INT query for date range
+sql query to get count of rows
+sql query to get most recent date from two tables
+mysql count ( ) function
+sql query to find average of rows
+order by date in sql
+sql query to find max value
+sql query to find duplicates
+sql query to find out which column has the key
+mysql count with join
+sql query with group by
+sql query to find substring
+find rank of each person
+get max value from multiple rows
+sort by number of rows
+select from two tables
+get last TAG_INT rows
+sql join two tables
+select top TAG_INT rows from two tables
+join two tables
+get the last date of each group
+find difference between two rows
+get the size of the varchar stored as varchar
+select rows with max value
+sql query to get the difference between two values
+select rows from a table where all rows of the same table match the same value
+select distinct rows from multiple tables
+sql query to calculate monthly totals
+sql query to find rows with matching values
+check if column exists or not
+get the last TAG_INT rows
+mysql select last TAG_INT rows
+sql server TAG_INT - check if record exists in table
+count rows from joined table
+check if a table is empty
+join two tables using a third table
+mysql if statement in select
+select all rows that correspond to a certain date
+joining multiple tables
+find duplicate rows in a table
+php / mysql pagination with order by
+select rows from one table which are not in another
+select next TAG_INT rows in oracle
+mysql count multiple values
+sql query to get data based on date
+select distinct values from two columns
+is it possible to check if a list of values are part of a list
+select rows where count of TAG_INT rows is greater than TAG_INT
+mysql get last TAG_INT rows
+find difference between two table
+get the sum of the previous row
+reaplce numbers for a column with string
+sql server : merge multiple rows into one
+mysql union query
+join two tables
+sql server TAG_INT - select top n from each group
+sql server conditional select
+join two tables with avg and count
+mysql select from one table where does not exist in another
+oracle sql - how to get exact string value
+search for all tables in a database
+join two tables
+join two tables
+mysql - how to get month and year of the week
+get the last record from the database
+sql query to find max value
